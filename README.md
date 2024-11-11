@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @yash-dabhade-research-commons
-- 👀 I’m interested in back-end developer
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on software devepment role.
 - ⚡ Fun fact: Loves anime than manga 
